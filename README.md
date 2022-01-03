@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KendelVentonda
+- 👀 I’m interested in Python. Sssss...
+- 🌱 I’m currently learning anything interesting!
+- 💞️ I’m looking to collaborate on community design.
+- 📫 How to reach me? Probably by searching me in the interwebs.
